@@ -9,11 +9,7 @@ Personnaly I don't knwo this Game but will learn it.
 <p> install <p>
 # this is my change rmdes2
 * hello world
-<<<<<<< HEAD
-* yeah
-=======
 * yeah
 
 #Seb is in da place
 * last commit for me
->>>>>>> seba8co
